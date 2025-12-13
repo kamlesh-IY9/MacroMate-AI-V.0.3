@@ -68,7 +68,7 @@
 ## 🎬 Demo
 
 ### Application Walkthrough
-
+https://github.com/kamlesh-IY9/MacroMate-AI-V.0.3/blob/e1f7691448358c12c93e847735a241bce99c8584/MacroMate_AI_Demo_Video.mp4
 
 *Main dashboard, AI food logging, and tracking features*
 

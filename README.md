@@ -71,13 +71,13 @@
 ### Application Walkthrough
 [🔗Demo Video if below video not play](https://github.com/kamlesh-IY9/MacroMate-AI-V.0.3/blob/e1f7691448358c12c93e847735a241bce99c8584/MacroMate_AI_Demo_Video.mp4)
 
-#### `Demo Part - 1 : `
+- ### `Demo Part - 1 : `
 
 
 https://github.com/user-attachments/assets/9f61e4f2-f941-40ec-8a7c-1be07691e6d9
 
 
-#### `Demo Part - 2 : `
+- ### `Demo Part - 2 : `
 
 
 https://github.com/user-attachments/assets/e2e228c3-d9f2-4393-9d16-7c53a00841be

@@ -71,12 +71,25 @@
 ### Application Walkthrough
 [🔗Demo Video if below video not play](https://github.com/kamlesh-IY9/MacroMate-AI-V.0.3/blob/e1f7691448358c12c93e847735a241bce99c8584/MacroMate_AI_Demo_Video.mp4)
 
-https://github.com/user-attachments/assets/dc18a20e-fdf0-416f-bcfe-a8bfec226f51
+#### `Demo Part - 1 : `
+
+
+https://github.com/user-attachments/assets/9f61e4f2-f941-40ec-8a7c-1be07691e6d9
+
+
+#### `Demo Part - 2 : `
+
+
+https://github.com/user-attachments/assets/e2e228c3-d9f2-4393-9d16-7c53a00841be
 
 
 *Main dashboard, AI food logging, and tracking features*
 
 *Firebase data storage and cloud sync*
+<img width="1920" height="1080" alt="Screenshot 2025-12-10 232212" src="https://github.com/user-attachments/assets/82203be4-7fc4-4bdc-863c-b92fcf9eef5d" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-10 232304" src="https://github.com/user-attachments/assets/9c6aebea-6931-44de-8b1b-c6bcf360217d" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-10 232236" src="https://github.com/user-attachments/assets/06c5ea48-57d6-4cc7-9e78-2ba846fcf10e" />
+
 
 > **Note**: Demo videos showcase the application's key features including AI-powered food logging, real-time macro tracking, weight trends, meal planning, recipe management, and the AI nutrition coach.
 

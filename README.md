@@ -16,6 +16,7 @@
 
 </div>
 
+
 ---
 
 ## 📋 Table of Contents
@@ -68,7 +69,13 @@
 ## 🎬 Demo
 
 ### Application Walkthrough
-https://github.com/kamlesh-IY9/MacroMate-AI-V.0.3/blob/e1f7691448358c12c93e847735a241bce99c8584/MacroMate_AI_Demo_Video.mp4
+[🔗Demo Video if below video not play](https://github.com/kamlesh-IY9/MacroMate-AI-V.0.3/blob/e1f7691448358c12c93e847735a241bce99c8584/MacroMate_AI_Demo_Video.mp4)
+
+
+
+https://github.com/user-attachments/assets/273e61a0-6c45-4cdc-b91e-94b7b2470545
+
+
 
 *Main dashboard, AI food logging, and tracking features*
 

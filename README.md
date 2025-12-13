@@ -69,15 +69,6 @@
 
 ### Application Walkthrough
 
-> **Note**: Add your demo video and screenshots here to showcase the application's features.
-
-```
-Example format:
-- Main dashboard demo
-- AI food logging in action
-- Meal planner interface
-- Weight tracking charts
-```
 
 *Main dashboard, AI food logging, and tracking features*
 

@@ -74,12 +74,6 @@
 https://github.com/user-attachments/assets/dc18a20e-fdf0-416f-bcfe-a8bfec226f51
 
 
-
-
-```https://github.com/user-attachments/assets/273e61a0-6c45-4cdc-b91e-94b7b2470545```
-
-
-
 *Main dashboard, AI food logging, and tracking features*
 
 *Firebase data storage and cloud sync*

@@ -55,7 +55,6 @@
 - **🗓️ Weekly Meal Planner**: Plan your entire week with organized meals (Breakfast, Lunch, Dinner, Snacks)
 - **🍳 Recipe Builder**: Create and save custom recipes with ingredient tracking
 - **📚 Recipe Library**: Browse and manage your collection of favorite recipes
-- **🛒 Smart Shopping List**: Automatically generate a checklist of ingredients from your meal plan
 - **📸 Barcode Scanner**: Quickly log packaged foods by scanning barcodes (Mobile only)
 
 ### 🎨 Premium Design

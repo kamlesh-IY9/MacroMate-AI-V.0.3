@@ -15,7 +15,7 @@
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation--setup) • [Configuration](#-configuration)
 
 </div>
- 
+  
 ---
 
 ## 📋 Table of Contents
